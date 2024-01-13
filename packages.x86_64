@@ -141,6 +141,11 @@ spectacle
 konsole
 # rz608-fix-git - Unrequired since we use LNX6+ for machines that include it
 
+#Nvidia Drivers
+nvidia-dkms
+nvidia-utils
+
+
 # Another HoloISO addons -- BETA
 btop
 dos2unix
