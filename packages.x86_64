@@ -139,9 +139,10 @@ dialog
 dolphin
 spectacle
 konsole
-# rz608-fix-git - Unrequired since we use LNX6+ for machines that include it
-
-#Nvidia Drivers
+rz608-fix-git
+open-vm-tools
+virtualbox-guest-utils-nox
+qemu-guest-agent
 nvidia-dkms
 nvidia-utils
 
